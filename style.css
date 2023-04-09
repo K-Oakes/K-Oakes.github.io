@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    background: url(https://cdnb.artstation.com/p/assets/images/images/018/730/755/large/pedro-barcelos-highresscreenshot00000.jpg?1560484256) center center fixed;
+    background-size: cover;    
+}
+.h1 {
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.h2 {
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+}
+.SS1 {
+    height: 600px;
+    width: 800px;
+}
+.SS2 {
+    height: 600px;
+    width: 800px;
+}
+dl {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: whitesmoke;
+    position: absolute;
+    top: 200px;
+    left: 835px;
+    margin-right: 50px;
+}
+dd {
+    color: #c1e5fc;
+    font-weight: 400;
+}
+a:active {
+    color: blue;
+}
+a:visited {
+    color: firebrick;
+}
